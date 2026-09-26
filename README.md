@@ -1,4 +1,9 @@
 # P2-project
+
+
+
+
+
 def calculate_average(activity1, activity2, activity3):
     average = (activity1 + activity2 + activity3) / 3
     return average
